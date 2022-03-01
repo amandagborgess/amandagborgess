@@ -3,7 +3,7 @@ Estudante de programação 🤓
 
 - 🔭 Atualmente trabalhando como Helpdesk
 - 🌱 Estudante Front-end e Back-end (Fullstack)
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronome: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/amandagborgess">
