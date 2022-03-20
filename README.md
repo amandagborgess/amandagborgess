@@ -2,7 +2,7 @@
 Estudante de programação 🤓
 
 - 🔭 Atualmente trabalhando como Helpdesk
-- 🌱 Estudante Front-end e Back-end (Fullstack)
+- 🌱 Estudante Fullstack
 - 😄 Pronome: Ela/Dela
 
 <div align="center">
