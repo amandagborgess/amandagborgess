@@ -1,7 +1,7 @@
 ### Oiê! Eu sou a Amanda Borges 👋
 Estudante de programação 🤓
 
-- 🔭 Atualmente trabalhando como Helpdesk
+- 🔭 Aualmente na área SAP mas com muuuuita aspiração pela programação
 - 🌱 Estudante Fullstack
 - 😄 Pronome: Ela/Dela
 
