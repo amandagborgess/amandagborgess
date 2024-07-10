@@ -1,4 +1,4 @@
-### Oiê! Eu sou a Amanda Borges 👋
+### Oiê! Eu sou a Amanda 👋
 Estudante de programação 🤓
 
 - 🔭 Aualmente na área SAP mas com muuuuita aspiração pela programação
