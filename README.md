@@ -3,7 +3,6 @@ Estudante de programação 🤓
 
 - 🔭 Aualmente na área SAP mas com muuuuita aspiração pela programação
 - 🌱 Estudante Fullstack
-- 😄 Pronome: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/amandagborgess">
