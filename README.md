@@ -53,14 +53,46 @@ código até colocar a aplicação no ar. 🚀
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-### 🦷 OralVitta Odontologia
+## 🧾 OrçaPro — Sistema de Gestão de Orçamentos
+
+Sistema web desenvolvido para gerenciamento de orçamentos, clientes e
+materiais, com foco em organização, praticidade e automação de processos.
+
+O projeto simula uma aplicação real para empresas que trabalham com
+elaboração e acompanhamento de orçamentos.
+
+### ✨ Funcionalidades
+
+- Dashboard com indicadores
+- Cadastro e gerenciamento de orçamentos
+- Cadastro de clientes
+- Cadastro de materiais
+- Cálculo e acompanhamento de valores
+- Status de orçamentos
+- Geração de orçamento em PDF
+- Interface responsiva
+- Persistência de dados utilizando LocalStorage
+- Organização modular do JavaScript
+- Manipulação dinâmica da interface
+
+### 🛠️ Tecnologias utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 **[Ver projeto no GitHub](https://github.com/amandagborgess/OrcaPro)**
+
+---
+
+## 🦷 OralVitta Odontologia
 
 Landing page demonstrativa desenvolvida para uma clínica odontológica
 fictícia, com foco em experiência do usuário e conversão.
 
-**Destaques:**
+### ✨ Destaques
 
 - Design responsivo
 - Menu mobile
@@ -70,7 +102,7 @@ fictícia, com foco em experiência do usuário e conversão.
 - SEO básico
 - Git e GitHub
 
-🔗 [Ver projeto](https://github.com/amandagborgess/landing-oralvitta)
+🔗 **[Ver projeto no GitHub](https://github.com/amandagborgess/landing-oralvitta)**
 
 ---
 
