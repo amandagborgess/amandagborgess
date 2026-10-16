@@ -1,26 +1,26 @@
+
 # Oi! Eu sou a Amanda 👋🏽
 
 💻 Estudante de Desenvolvimento de Software  
-💼 Atualmente atuando na área de SAP  
-🚀 Construindo minha transição para desenvolvimento Full Stack
+💼 Profissional da área de SAP  
+🚀 Construindo minha jornada em Desenvolvimento Full Stack  
+🔗 Interessada na integração entre sistemas, desenvolvimento web e soluções de negócio
 
 ---
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou estudante de programação e atualmente atuo na área de SAP, enquanto
-construo minha jornada no desenvolvimento de software.
+Sou estudante de Desenvolvimento de Software e atuo profissionalmente na área de SAP, onde tenho contato com processos de negócio e sistemas corporativos.
 
-Meu objetivo é evoluir cada vez mais em desenvolvimento Full Stack,
-criando projetos práticos e explorando tecnologias de frontend, backend,
-APIs, bancos de dados e desenvolvimento de aplicações.
+Estou ampliando minha atuação em tecnologia por meio do desenvolvimento de projetos práticos, explorando desde a construção de interfaces até lógica de programação, integração entre sistemas e persistência de dados.
 
-Gosto de transformar ideias em projetos reais — da primeira linha de
-código até colocar a aplicação no ar. 🚀
+Meu objetivo é unir minha experiência com sistemas empresariais ao desenvolvimento de software, construindo uma base sólida para atuar como desenvolvedora Full Stack e, futuramente, explorar ainda mais a integração entre desenvolvimento e soluções SAP.
+
+Gosto de transformar ideias em projetos reais — da primeira linha de código até a validação das funcionalidades. 🚀
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 ### Front-end
 
@@ -28,7 +28,7 @@ código até colocar a aplicação no ar. 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Back-end & Programação
+### Back-end e programação
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,31 +49,60 @@ código até colocar a aplicação no ar. 🚀
 - JavaScript e Node.js
 - APIs e integração entre sistemas
 - Banco de dados
-- Arquitetura e desenvolvimento de aplicações
+- Arquitetura e organização de aplicações
+- Boas práticas de desenvolvimento e testes
 
 ---
 
 # 🚀 Projetos em destaque
 
+## 🏠 RentHub — Sistema de Gestão de Locações de Veículos
+
+Protótipo web para gestão de locações de veículos, desenvolvido com foco na organização de informações, simulação de processos e construção de uma interface funcional para um cenário de negócio.
+
+O projeto reúne diferentes telas e funcionalidades para representar fluxos de gestão, trabalhando com manipulação dinâmica da interface e persistência de dados no navegador.
+
+### ✨ Funcionalidades e destaques
+
+- Dashboard com indicadores
+- Páginas para diferentes áreas do sistema
+- Fluxos demonstrativos de reservas e locações
+- Gestão de informações relacionadas à frota e à manutenção
+- Persistência de dados com LocalStorage
+- Validações e regras de negócio demonstrativas
+- Sincronização de alterações entre abas
+- Testes automatizados de validação do projeto
+- Organização modular dos arquivos JavaScript
+
+### 🛠️ Tecnologias utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Observação:** este é um protótipo para portfólio. Os dados são armazenados localmente no navegador, e a autenticação é demonstrativa, não substituindo um sistema de autenticação seguro em produção.
+
+🔗 **[Ver projeto no GitHub](https://github.com/amandagborgess/RentHub)**
+
+---
+
 ## 🧾 OrçaPro — Sistema de Gestão de Orçamentos
 
-Sistema web desenvolvido para gerenciamento de orçamentos, clientes e
-materiais, com foco em organização, praticidade e automação de processos.
+Sistema web desenvolvido para gerenciamento de orçamentos, clientes e materiais, com foco em organização, praticidade e automação de processos.
 
-O projeto simula uma aplicação real para empresas que trabalham com
-elaboração e acompanhamento de orçamentos.
+O projeto simula uma aplicação para empresas que precisam elaborar e acompanhar orçamentos de forma estruturada.
 
 ### ✨ Funcionalidades
 
 - Dashboard com indicadores
 - Cadastro e gerenciamento de orçamentos
-- Cadastro de clientes
-- Cadastro de materiais
+- Cadastro de clientes e materiais
 - Cálculo e acompanhamento de valores
-- Status de orçamentos
+- Controle de status dos orçamentos
 - Geração de orçamento em PDF
 - Interface responsiva
-- Persistência de dados utilizando LocalStorage
+- Persistência de dados com LocalStorage
 - Organização modular do JavaScript
 - Manipulação dinâmica da interface
 
@@ -87,30 +116,35 @@ elaboração e acompanhamento de orçamentos.
 
 ---
 
-## 🦷 OralVitta Odontologia
+## 🦷 OralVitta Odontologia — Landing Page
 
-Landing page demonstrativa desenvolvida para uma clínica odontológica
-fictícia, com foco em experiência do usuário e conversão.
+Landing page demonstrativa desenvolvida para uma clínica odontológica fictícia, com foco em experiência do usuário, apresentação de serviços e conversão.
 
 ### ✨ Destaques
 
-- Design responsivo
-- Menu mobile
+- Layout responsivo
+- Menu para dispositivos móveis
 - Animações e interações
 - FAQ interativo
 - Integração com WhatsApp
 - SEO básico
-- Git e GitHub
+- Versionamento com Git e GitHub
+
+### 🛠️ Tecnologias utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 🔗 **[Ver projeto no GitHub](https://github.com/amandagborgess/landing-oralvitta)**
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo profissional
 
-Construir uma base sólida em desenvolvimento de software, criar projetos
-cada vez mais completos e transformar conhecimento técnico em soluções
-reais.
+Continuar evoluindo em desenvolvimento de software por meio de estudos e projetos práticos, aprofundando meus conhecimentos em desenvolvimento Full Stack, APIs, bancos de dados e arquitetura de aplicações.
+
+Quero conectar minha experiência com SAP e processos empresariais à construção de soluções de software, desenvolvendo uma visão funcional-técnica capaz de aproximar necessidades de negócio e tecnologia.
 
 ---
 
